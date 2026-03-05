@@ -1,0 +1,6 @@
+Shortest distances from A:
+A : 0
+B : 9
+C : 4
+D : 6
+E : 8
